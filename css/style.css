@@ -170,10 +170,12 @@ header a:hover
 #main #sidebar
 {
     margin-top: 10px;
+    padding-top: 15px;
     float:right;
     text-align: center;
     width:30%;
     color: white;
+    padding-bottom: 15px;
     background-color: #35424a;
 } 
 #main #sidebar h3{
@@ -190,7 +192,7 @@ header a:hover
 #services li
 {
     width: 60%;
-    padding:20px;
+    /* padding:0px; */
     margin-bottom: 5px;
     border: #cccccc solid 1px;
     background-color: #e6e6e6;
