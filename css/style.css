@@ -97,7 +97,8 @@ header a:hover
     min-height: 400px;
     text-align: center;
     color:white;
-    background:url(../images/showcase.jpg);
+    background:url(../images/showcase-2.jpg);
+    background-size: contain;
 }
 
 #showcase h1
